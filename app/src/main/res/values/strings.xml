@@ -1,0 +1,8 @@
+<resources>
+  <string name="tfe_qa_app_name" translatable="false">TFL Preguntas y Respuestas</string>
+  <string name="tfe_qa_banner_description" translatable="false">Banner</string>
+  <string name="tfe_qa_title_dataset_hint_text" translatable="false">Seleccionar un artículo de la siguiente lista.</string>
+  <string name="tfe_qa_you_might_want_to_ask" translatable="false">Te gustaría realizar alguna pregunta?</string>
+  <string name="tfe_qa_text_query" translatable="false">Consulta de Texto</string>
+  <string name="tfe_qa_ask_question" translatable="false">Pregunta</string>
+</resources>
